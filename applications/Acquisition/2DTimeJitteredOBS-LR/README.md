@@ -38,14 +38,14 @@ Start matlab from this directory or run startup.m file from this directory
 to set the correct paths. The scripts that produced the example can be found in ./examples. 
 
 1. To run the example, first download the data from<br />
-    	 <ftp://slim.eos.ubc.ca/data/SoftwareRelease/Common/GulfOfSuez><br />
+    	 <ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Common/GulfOfSuez><br />
         by typing `scons' in the ./data directory
 
 2. Specific instructions for the example can be found in the file README.md in the 
         ./examples directory.
 
 3. Pre-run results can be downloaded from<br />
-        <ftp://slim.eos.ubc.ca/data/SoftwareRelease/Acquisition/2DTimeJitteredOBS-LR/results><br />
+        <ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Acquisition/2DTimeJitteredOBS-LR/results><br />
         by typing `scons' in the ./results directory
 
 4. To run the algorithm on your own data, see the file README.md in the 
@@ -55,10 +55,8 @@ to set the correct paths. The scripts that produced the example can be found in 
 ## SUPPORT
 You may contact developers of SINBAD software by means of:
 
-1. Mailing list<br />
-       Subscribe to SINBAD software mailing list at
-        <http://slim.eos.ubc.ca/mailman/listinfo/slimsoft> and e-mail your
-       question to the mailing list.
+1. GitHub issue tracker<br />
+       Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 
 2. Direct mail<br />
        Contact SLIM administrator at <softadmin@slimweb.eos.ubc.ca> with any

@@ -55,10 +55,8 @@
  this section if none.
 ##  SUPPORT
  You may contact developers of SINBAD software by means of:
-###  Mailing list
- Subscribe to SINBAD software mailing list at
- http://slim.eos.ubc.ca/mailman/listinfo/slimsoft and e-mail your
- question to the mailing list.
+### GitHub issue tracker
+ Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 ###  Direct mail
  Contact SLIM administrator at softadmin@slimweb.eos.ubc.ca with any
  questions related to the SINBAD software release.

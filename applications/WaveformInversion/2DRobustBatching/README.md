@@ -29,11 +29,11 @@ Start matlab from this directory or run startup.m to set the correct paths.
 The scripts that produced the examples shown in the documentation can be found in ./scripts.
 
 1. To run the scripts, first download the data and models from
-    	<ftp://slim.eos.ubc.ca/data/users/tristan/2DRobustBatching/data>
+    	<ftp://ftp.slim.gatech.edu/data/users/tristan/2DRobustBatching/data>
        by typing `scons' in the ./data directory
 2. Specific instructions for each script can be found in the scripts. 
 3. Pre-run results can be downloaded from
-	<ftp://slim.eos.ubc.ca/data/users/tristan/2DRobustBatching/results>
+	<ftp://ftp.slim.gatech.edu/data/users/tristan/2DRobustBatching/results>
        by typing `scons' in the ./results directory
 4. To run the algorithms on your own data, see template.m in the ./scripts directory. 
 
@@ -43,10 +43,8 @@ A part of the Compass Model, developed by the BG group is distributed with this 
 ##SUPPORT
 You may contact developers of SINBAD software by means of:
 
-1. Mailing list
-      Subscribe to SINBAD software mailing list at
-      <http://slim.eos.ubc.ca/mailman/listinfo/slimsoft> and e-mail your
-      question to the mailing list.
+1. GitHub issue tracker
+      Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 2. Direct mail
       Contact SLIM administrator at <softadmin@slimweb.eos.ubc.ca> with any
       questions related to the SINBAD software release.

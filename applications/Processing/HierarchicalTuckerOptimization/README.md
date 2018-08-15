@@ -32,11 +32,9 @@ Start Matlab from this directory or run startup.m to set the correct paths. The 
 
 You may contact developers of SINBAD software by means of:
 
+### GitHub issue tracker
 
-### Mailing list ###
-
-Subscribe to SINBAD software mailing list at http://slim.eos.ubc.ca/mailman/listinfo/slimsoft and e-mail your question to the mailing list.
-
+Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 
 ### Direct mail ###
 

@@ -50,7 +50,7 @@
 % Ensure that you end up downloading the three datafiles
 % |model1_150_by_150_shot_106_255.mat|, |GulfOfSuez178.su|, and
 % |SuezShots125.355shots.su| into this directory. If not,
-% <ftp://slim.eos.ubc.ca/data/users/timlin/RobustEPSI/RobustEPSI_dataset.zip
+% <ftp://ftp.slim.gatech.edu/data/users/timlin/RobustEPSI/RobustEPSI_dataset.zip
 % click here> to download a zip package that contain all three files.
 
 %% Step 2: Setting program parameters (using the provided SCons scripts)

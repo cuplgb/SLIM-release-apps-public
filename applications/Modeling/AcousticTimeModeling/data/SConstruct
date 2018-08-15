@@ -6,10 +6,10 @@ from rsf.proj import *
 ########################################################################
 # define SLIM FTP server information
 FTPserver = {
-        'server': 'slim.eos.ubc.ca',
+        'server': 'ftp.slim.gatech.edu',
         'login': 'ftp',
         'password':''}
-# actuall ftp://slim.eos.ubc.ca/data/SoftwareRelease/Modeling/AcousticTimeModeling/
+# actuall ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Modeling/AcousticTimeModeling/
 
 loc = os.path.join('SoftwareRelease','Modeling','AcousticTimeModeling')
 files = [ 'Water_Mar.mat' ]

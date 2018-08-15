@@ -57,10 +57,8 @@ A part of the Compass Model, developed by the BG group is distributed
 ##SUPPORT
 You may contact developers of SINBAD software by means of:
 
-1. Mailing list
-      Subscribe to SINBAD software mailing list at
-      <http://slim.eos.ubc.ca/mailman/listinfo/slimsoft> and e-mail your
-      question to the mailing list.
+1. GitHub issue tracker
+      Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 2. Direct mail
       Contact SLIM administrator at <softadmin@slimweb.eos.ubc.ca> with any
       questions related to the SINBAD software release.

@@ -26,7 +26,7 @@ This application does not require any installation of extra software from SLIM-r
 
 ###  Downloading data
 
-The part of the BP 2004 velocity benchmark data set used as the true velocity model for one of the included examples can be downloaded from <a href="ftp://slim.eos.ubc.ca/data/SoftwareRelease/WaveformInversion/2DWRI-TVconstrained">ftp://slim.eos.ubc.ca/data/SoftwareRelease/WaveformInversion/2DWRI-TVconstrained</a>.
+The part of the BP 2004 velocity benchmark data set used as the true velocity model for one of the included examples can be downloaded from <a href="ftp://ftp.slim.gatech.edu/data/SoftwareRelease/WaveformInversion/2DWRI-TVconstrained">ftp://ftp.slim.gatech.edu/data/SoftwareRelease/WaveformInversion/2DWRI-TVconstrained</a>.
 
 ###  Running applications/demos
 
@@ -40,9 +40,9 @@ This code was developed using MATLAB R2013a.
 
 You may contact developers of SINBAD software by means of:
 
-###  Mailing list
+### GitHub issue tracker
 
-Subscribe to SINBAD software mailing list at http://slim.eos.ubc.ca/mailman/listinfo/slimsoft and e-mail your question to the mailing list.
+Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 
 ###  Direct mail
  

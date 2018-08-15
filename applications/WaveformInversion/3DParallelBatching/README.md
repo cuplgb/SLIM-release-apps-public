@@ -26,7 +26,7 @@ Documentation and examples in .html format are included in the ./doc subdirector
 Start matlab from this directory or run startup.m to set the correct paths.
 
 1. To run the scripts, first download the data and models from<br />
-        <ftp://slim.eos.ubc.ca/data/SoftwareRelease/WaveformInversion/3DParallelBatching/data/> and <ftp://slim.eos.ubc.ca/data/SoftwareRelease/WaveformInversion/3DParallelBatching/models/>
+        <ftp://ftp.slim.gatech.edu/data/SoftwareRelease/WaveformInversion/3DParallelBatching/data/> and <ftp://ftp.slim.gatech.edu/data/SoftwareRelease/WaveformInversion/3DParallelBatching/models/>
        by typing `scons' in the ./data directory
 2. The scripts that produced the examples shown in the documentation can be found in ./scripts.
 
@@ -44,10 +44,8 @@ After the script finishes, just type the following command to close the parallel
 #SUPPORT
 You may contact developers of SINBAD software by means of:
 
-1. Mailing list<br />
-      Subscribe to SINBAD software mailing list at<br />
-      <http://slim.eos.ubc.ca/mailman/listinfo/slimsoft> and e-mail your
-      question to the mailing list.
+1. GitHub issue tracker
+      Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 2. Direct mail<br />
       Contact SLIM administrator at <softadmin@slimweb.eos.ubc.ca> with any
       questions related to the SINBAD software release.

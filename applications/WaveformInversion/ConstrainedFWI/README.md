@@ -124,7 +124,7 @@ All codes which setup constraints, apply projections or do the optimization have
 
 You may contact developers of SINBAD software by means of:
 
-- **Mailing list.** Subscribe to SINBAD software mailing list at [http://slim.eos.ubc.ca/mailman/listinfo/slimsoft](http://slim.eos.ubc.ca/mailman/listinfo/slimsoft) and e-mail your questions to the mailing list.
+- **GitHub issue tracker** Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 
 - **Direct email.** Contact SLIM administrator at [softadmin@slimweb.eos.ubc.ca](mailto:softadmin@slimweb.eos.ubc.ca) with any
  questions related to the SINBAD software release.

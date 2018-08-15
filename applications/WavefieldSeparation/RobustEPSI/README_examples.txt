@@ -30,7 +30,7 @@ FETCHING DEMO SEISMIC DATA
     zip archive of the files at the address below and unpack it into the 
     'data' folder:
     
-    ftp://slim.eos.ubc.ca/data/users/timlin/RobustEPSI/RobustEPSI_dataset.zip
+    ftp://ftp.slim.gatech.edu/data/users/timlin/RobustEPSI/RobustEPSI_dataset.zip
     
     
 RUNNING THE EXAMPLES

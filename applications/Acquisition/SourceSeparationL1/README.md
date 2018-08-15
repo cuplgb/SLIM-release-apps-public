@@ -61,7 +61,7 @@ the README located in home directory of the software release.
 ###  Downloading data
 
 To run the examples, first download the data from
-ftp://slim.eos.ubc.ca/data/SoftwareRelease/Acquisition/SourceSeparationL1/Original,
+ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Acquisition/SourceSeparationL1/Original,
 by typing `scons' in the ./data directory
 
 ###  Running applications/demos
@@ -70,7 +70,7 @@ Specific instructions for the example can be found in the README.md
 file in the corresponding subdirectory.
 
 Pre-run results can be downloaded from
-ftp://slim.eos.ubc.ca/data/SoftwareRelease/Acquisition/SourceSeparationL1/Results,
+ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Acquisition/SourceSeparationL1/Results,
 by typing `scons' in the ./results directory
 
 #### Data adaptation
@@ -83,11 +83,9 @@ README.md file in the ./examples directory.
 
 You may contact developers of SINBAD software by means of:
 
-###  Mailing list
+### GitHub issue tracker
 
-Subscribe to [SINBAD software mailing list]
-(http://slim.eos.ubc.ca/mailman/listinfo/slimsoft) and e-mail your
-question to the mailing list.
+Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 
 ###  Direct mail
 

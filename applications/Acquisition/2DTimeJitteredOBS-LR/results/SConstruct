@@ -7,7 +7,7 @@ from rsf.proj import *
 
 # Define SLIM FTP server information
 FTPserver = {
-        'server': 'slim.eos.ubc.ca',
+        'server': 'ftp.slim.gatech.edu',
         'login': 'ftp',
         'password':''}
 

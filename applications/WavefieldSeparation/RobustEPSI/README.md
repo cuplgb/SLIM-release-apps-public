@@ -95,10 +95,8 @@ The Stabilized EPSI program can be run as standalone command-line shell
 ##SUPPORT
 You may contact developers of SINBAD software by means of:
     
-1. Mailing list<br />
-Subscribe to SINBAD software mailing list at
-      <http://slim.eos.ubc.ca/mailman/listinfo/slimsoft> and e-mail your
-      question to the mailing list.
+1. GitHub issue tracker<br />
+Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
       
 2. Direct mail<br />
 Contact SLIM administrator at <softadmin@slimweb.eos.ubc.ca> with any

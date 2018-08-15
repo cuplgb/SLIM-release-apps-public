@@ -55,7 +55,7 @@ the README located in home directory of the software release.
 ### Downloading data
 
 To run the examples, first download the data from
-ftp://slim.eos.ubc.ca/data/SoftwareRelease/Acquisition/TimeLapseJRM/data,
+ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Acquisition/TimeLapseJRM/data,
 by typing `scons' in the ./data directory.
 
 [1] Random missing shots: this example uses the time-lapse-data.mat
@@ -67,7 +67,7 @@ data_4D.mat data from the ./data directory.
 ### Running applications/demos
     
 [1] Random missing shots: pre-run results can be downloaded from
-ftp://slim.eos.ubc.ca/data/SoftwareRelease/Acquisition/TimeLapseJRM/results/MissShots_OneReceiverGather,
+ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Acquisition/TimeLapseJRM/results/MissShots_OneReceiverGather,
 by typing `scons' in the ./results/MissShots_OneReceiverGather
 directory. Implementation of the example can be run by following the instructions in the README.md file
 in the ./scripts/MissShots_OneReceiverGather directory.
@@ -76,7 +76,7 @@ in the ./scripts/MissShots_OneReceiverGather directory.
 this example can be found in the README.md file in the
 ./scripts/TimeJitteredMarineAcq_OneReceiverGather directory. Pre-run
 results can be downloaded from
-ftp://slim.eos.ubc.ca/data/SoftwareRelease/Acquisition/TimeLapseJRM/results/TimeJitteredMarineAcq_OneReceiverGather,
+ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Acquisition/TimeLapseJRM/results/TimeJitteredMarineAcq_OneReceiverGather,
 by typing `scons' in the
 ./results/TimeJitteredMarineAcq_OneReceiverGather directory.
 
@@ -91,11 +91,9 @@ own data, see the instructions in the README.md file in the
   
 You may contact developers of SINBAD software by means of:
 
-### Mailing list
+### GitHub issue tracker
 
-Subscribe to [SINBAD software mailing list]
-(http://slim.eos.ubc.ca/mailman/listinfo/slimsoft) and e-mail your
-question to the mailing list.
+Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 
 ###  Direct mail
 

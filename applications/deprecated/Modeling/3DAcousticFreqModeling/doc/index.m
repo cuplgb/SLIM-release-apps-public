@@ -29,7 +29,7 @@
 % 
 % Download all the data files found in 
 %  
-% |ftp://slim.eos.ubc.ca/data/SoftwareRelease/Modeling/3DAcousticFreqModeling/data|
+% |ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Modeling/3DAcousticFreqModeling/data|
 %      
 % and place them into ./data folder. The files are |m_init.rsf|, |m_true.rsf| 
 % and |Dobs.rsf|.

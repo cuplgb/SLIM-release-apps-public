@@ -36,11 +36,11 @@ Start matlab from this directory or run startup.m to set the correct paths. The 
      according to the requirements 
 
 1. To run the "GofS_Interp_and_denoise.m" and "GofS_Interp.m" scripts in example folder, download the data from
-    	 <ftp://slim.eos.ubc.ca/data/SoftwareRelease/Common/GulfOfSuez>
+    	 <ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Common/GulfOfSuez>
         by typing `scons' in the ./data/Interpolation directory
 
 2. To run the "GofS_regularize_and_interp.m" scripts in example folder, download the data from
-    	 <ftp://slim.eos.ubc.ca/data/SoftwareRelease/Processing/LowRankInterpolationAndDenoising/Regularization>
+    	 <ftp://ftp.slim.gatech.edu/data/SoftwareRelease/Processing/LowRankInterpolationAndDenoising/Regularization>
         by typing `scons' in the ./data/Regularization directory
 
 2. You can find three sets of examples under "./examples/GulfofSuez" : First example
@@ -63,10 +63,8 @@ Start matlab from this directory or run startup.m to set the correct paths. The 
 ##SUPPORT
 You may contact developers of SINBAD software by means of:
 
-1. Mailing list
-      Subscribe to SINBAD software mailing list at
-      <http://slim.eos.ubc.ca/mailman/listinfo/slimsoft> and e-mail your
-      question to the mailing list.
+1. GitHub issue tracker
+      Submit issue at [SLIM-release-apps issues](https://github.com/SINBADconsortium/SLIM-release-apps/issues).
 2. Direct mail
       Contact SLIM administrator at <softadmin@slimweb.eos.ubc.ca> with any
       questions related to the SINBAD software release.
